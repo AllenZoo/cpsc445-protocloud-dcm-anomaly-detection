@@ -27,9 +27,17 @@ Top Secret Research (Sshh)/
 │
 ├── scripts/ # Helper scripts for running training/evaluation
 │
-├── tests/ # Unit tests 
+├── tests/ # Unit tests
 │
 ├── requirements.txt # Python (IF we are using Python) dependencies
 └── README.md # Project documentation
 ```
+
 (tests may or may not be implemented depending on how responsible we feel :))
+
+** Virtual Environment Setup **
+Create venv:
+
+Run `python -m venv venv` in root directory.
+
+To activate run: `venv\Scripts\activate` in terminal.
