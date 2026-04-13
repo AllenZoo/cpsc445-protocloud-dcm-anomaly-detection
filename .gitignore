@@ -1,1 +1,7 @@
 data/raw
+data/HeartCellAtlas
+.Rproj.user
+*npy
+*pkl
+*joblib
+Dataset/HCA-Healthy
