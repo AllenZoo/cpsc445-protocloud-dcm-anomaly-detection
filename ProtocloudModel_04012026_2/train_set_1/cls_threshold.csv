@@ -1,0 +1,9 @@
+,label,certainty_threshold,ll_threshold
+0,Endothelium,0.67392707,
+1,Fibroblasts,0.6682861,
+2,Macrophages,0.6804606,
+3,Monocytes,0.68981725,
+4,NK_Cells,0.7018563,
+5,Pericytes,0.67086405,
+6,Smooth_Muscle,0.6792179,
+7,T_Cells,0.699534,
