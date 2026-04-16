@@ -1,6 +1,6 @@
 library(anndata)
 library(Seurat)
-
+# preprocess Robj downloaded from https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE183852 to anndata
 load("GSE183852_DCM_Cells.Robj")
 
 gene_names <- rownames(HDCM@assays$RNA@counts)
